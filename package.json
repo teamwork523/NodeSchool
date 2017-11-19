@@ -1,0 +1,29 @@
+{
+  "name": "@snooperlock/nodeschool",
+  "version": "1.0.2",
+  "main": "program.js",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2",
+    "bl": "^1.2.1",
+    "strftime": "^0.10.0",
+    "through2-map": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "snooperlock",
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ],
+  "description": "This is a test repo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamwork523/GrowthTracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/teamwork523/GrowthTracker/issues"
+  },
+  "homepage": "https://github.com/teamwork523/GrowthTracker#readme"
+}
